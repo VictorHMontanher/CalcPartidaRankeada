@@ -1,0 +1,14 @@
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio2\CalcPartidaRankeada\bin\Debug\net8.0\CalcPartidaRankeada.exe
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio2\CalcPartidaRankeada\bin\Debug\net8.0\CalcPartidaRankeada.deps.json
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio2\CalcPartidaRankeada\bin\Debug\net8.0\CalcPartidaRankeada.runtimeconfig.json
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio2\CalcPartidaRankeada\bin\Debug\net8.0\CalcPartidaRankeada.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio2\CalcPartidaRankeada\bin\Debug\net8.0\CalcPartidaRankeada.pdb
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio2\CalcPartidaRankeada\obj\Debug\net8.0\CalcPartidaRankeada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio2\CalcPartidaRankeada\obj\Debug\net8.0\CalcPartidaRankeada.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio2\CalcPartidaRankeada\obj\Debug\net8.0\CalcPartidaRankeada.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio2\CalcPartidaRankeada\obj\Debug\net8.0\CalcPartidaRankeada.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio2\CalcPartidaRankeada\obj\Debug\net8.0\CalcPartidaRankeada.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio2\CalcPartidaRankeada\obj\Debug\net8.0\refint\CalcPartidaRankeada.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio2\CalcPartidaRankeada\obj\Debug\net8.0\CalcPartidaRankeada.pdb
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio2\CalcPartidaRankeada\obj\Debug\net8.0\CalcPartidaRankeada.genruntimeconfig.cache
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio2\CalcPartidaRankeada\obj\Debug\net8.0\ref\CalcPartidaRankeada.dll
